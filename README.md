@@ -15,7 +15,7 @@
 
 - ⚡ P.S. **Imma chatbox**
 
-<h3 align="center"><b>Connect with Me!<b></h3>
+<h3 align="left"><b>Connect with Me!<b></h3>
 
 [<img align="center" alt="abhinavdholi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/abhinavdholi/)
 [<img align="center" alt="abhinav_dholi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/abhinav_dholi/)
