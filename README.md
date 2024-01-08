@@ -11,7 +11,7 @@
 
 - 🥅 Goal: I strive to solve real world problems that impacts and helps one in real world.
 
-- 📫 Reach me at: **abhinav.dholi@gmail.com**
+- 📫 Reach me at: **abhinav.dholi@gmail.com** or **dholi.a@northeastern.edu**
 
 - ⚡ P.S. **Imma chatbox**
 
