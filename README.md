@@ -42,6 +42,6 @@
 <code><img height="35" align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
 
 <h4 align="center"><b>Abhinav's Github Stats!</b></h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhinav-dholi&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhinav-dholi&show_icons=true&theme=tokyonight"></p>
 <h4 align="center"><b>Most used languages.</b></h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-dholi&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
