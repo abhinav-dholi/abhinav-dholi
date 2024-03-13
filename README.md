@@ -13,7 +13,7 @@
 
 - 📫 Reach me at: **abhinav.dholi@gmail.com** or **dholi.a@northeastern.edu**
 
-- ⚡ P.S. **Imma chatbox**
+- ⚡ P.S. **I love talking to people about tech or anything in general. Drop a message to me on [LinkedIn](https://www.linkedin.com/in/abhinavdholi/)**
 
 <h3 align="left"><b>Connect with Me!<b></h3>
 
@@ -41,7 +41,5 @@
 <code><img height="35" align="center" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="35" align="center" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/stackoverflow.svg"></code>
 
-<h4 align="center"><b>Abhinav's Github Stats!</b></h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=abhinav-dholi&show_icons=true&theme=tokyonight"></p>
 <h4 align="center"><b>Most used languages.</b></h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinav-dholi&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
