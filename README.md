@@ -1,4 +1,4 @@
-<h1 align="center">Hey there!👋, I am Abhinav Dholi.</h1>
+<h1 align="center">Hey!, I am Abhinav Dholi.</h1>
 <h3 align="center">At this point. I can work on any tech stack.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-dholi" alt="abhinav dholi" /> </p>
 
